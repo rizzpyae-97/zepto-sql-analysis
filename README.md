@@ -14,7 +14,7 @@ The project follows a real-world data analytics workflow:
 ## 🛠 Tools & Technologies
 - PostgreSQL
 - SQL
-- pgAdmin / Cloud PostgreSQL (Neon)
+- pgAdmin
 - GitHub
 
 ## 📂 Project Structure
